@@ -13,10 +13,15 @@
 5.对设备进行shell调试
 
 6.进行数据迁移
+
 ###########################
+
 其中代码中的
+
 pull=commands.getstatusoutput('adb pull /sdcard/DCIM/Camera/ /home/a/Desktop/ ')
+
 我是将相册中的相片放在了桌面。
+
 ###########################
 
 
