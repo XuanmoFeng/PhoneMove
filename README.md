@@ -27,7 +27,10 @@ pull=commands.getstatusoutput('adb pull /sdcard/DCIM/Camera/ /home/a/Desktop/ ')
 ## 注意
 使用步骤
   1.将代码拷贝到本地
+  
   2.sudo python phone.py
+  
   3.出现ready然后等待很久出现ok
+  
   4.再看看桌面
 ### *前提是得打开调试者模式，因为这些都是adb调试
